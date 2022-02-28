@@ -1,0 +1,9 @@
+1.Make sure the new stats have been run through the recursive feature selector 
+win loss record
+2. Goalies - see if it can be imputed if goalie name appears in a dataset, then count number of appearances
+in first x appearances to determine the starting goalie, then one hot encode or maybe even smart replace the goalie's stats as a second step
+3. over under performance as measured by imputed neutral odds and money made/lost
+4. rolling average of previous 5 - 10 appearances
+5. play with SRS
+6. compute days rest between games intraseason
+7. Try predicting team score rather than logistic winner, also try poisson distribution model
