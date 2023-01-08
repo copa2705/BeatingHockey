@@ -19,3 +19,4 @@ The data is sourced from:
 
 My last regressor achieved an accuracy level of 58.8%.
 The current best models clock in around 60%.
+To be used for educational purposes only.
