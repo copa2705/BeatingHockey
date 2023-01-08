@@ -16,3 +16,6 @@ The data is sourced from:
 1. Scraper I built which uses selenium to navigate https://www.hockey-reference.com/
 2. Moneypuck and evolving hockey for advanced stats
 3. Oddsportal.com
+
+My last regressor achieved an accuracy level of 58.8%
+The current best models clock in around 60%
